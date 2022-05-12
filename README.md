@@ -24,4 +24,8 @@ Utilizaremos um método numérico para aproximar um resultado da equação difer
 <img  src = "https://user-images.githubusercontent.com/65405310/168157581-81d739e9-b7c8-492c-935e-49173196d164.png" alt="desafio" class="center">
 <img  src = "https://user-images.githubusercontent.com/65405310/168157591-b8dab0b9-021e-4e21-a1b1-abce04891fab.png" alt="desafio" class="center">
 </p>
+
 <h2> Resultados </h2>
+<p align="center" >
+<img  src = "https://user-images.githubusercontent.com/65405310/168162108-7fbbbeee-f0c7-45a6-b4a4-855b8e809ea0.gif" alt="desafio" class="center">
+</p>
